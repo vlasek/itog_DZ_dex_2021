@@ -1,0 +1,16 @@
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/bin/Debug/net6.0/Task2
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/bin/Debug/net6.0/Task2.deps.json
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/bin/Debug/net6.0/Task2.dll
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/bin/Debug/net6.0/ref/Task2.dll
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/bin/Debug/net6.0/Task2.pdb
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.GlobalUsings.g.cs
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.dll
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/ref/Task2.dll
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.pdb
+/Users/vladimirkuzmin/Desktop/DZ_dec_2021/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
